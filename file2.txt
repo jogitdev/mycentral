@@ -1,1 +1,1 @@
-This is another file in the same directory to see the sample file text 
+Hello world from Devops and github 
