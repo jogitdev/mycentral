@@ -1,0 +1,2 @@
+This is the file1 text for sampledirectory to test the git
+
